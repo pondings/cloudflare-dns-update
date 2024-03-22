@@ -1,0 +1,28 @@
+{
+  "name": "Starter project for Node.js based Hass.io addons",
+  "version": "0.100",
+  "arch": [
+    "armhf",
+    "armv7",
+    "aarch64",
+    "amd64",
+    "i386"
+  ],
+  "slug": "nodejs_starter_hassio",
+  "description": "Starter project for Node.js based Hass.io addons",
+  "startup": "application",
+  "boot": "auto",
+  "map": [
+    "share:rw"
+  ],
+  "options": {
+    "zoneId": "",
+    "apiKey": "",
+    "apiEmail": ""
+  },
+  "schema": {
+    "zoneId": "str",
+    "apiKey": "str",
+    "apiEmail": "str"
+  }
+}

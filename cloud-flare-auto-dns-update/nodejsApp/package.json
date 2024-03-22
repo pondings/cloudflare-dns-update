@@ -1,14 +1,15 @@
 {
   "name": "nodejs_starter_hassio",
-  "version": "0.100",
-  "description": "Starter project for Node.js based Home Assistan addons",
+  "version": "1.0.0",
+  "description": "Cloudflare auto DNS update",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kdw2060",
+  "author": "pondwarut",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4"
+    "axios": "^1.6.7",
+    "moment": "^2.30.1"
   }
 }
