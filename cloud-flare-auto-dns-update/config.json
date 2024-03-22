@@ -8,7 +8,8 @@
     "amd64",
     "i386"
   ],
-  "slug": "nodejs_starter_hassio",
+  "init": false,
+  "slug": "cloudflare_auto_dns_update",
   "description": "Cloudflare auto DNS update",
   "url": "https://github.com/pondings/cloudflare-dns-update/tree/master/cloud-flare-auto-dns-update",
   "startup": "application",
