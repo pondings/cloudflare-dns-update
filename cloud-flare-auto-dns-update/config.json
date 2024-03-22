@@ -10,6 +10,7 @@
   ],
   "slug": "nodejs_starter_hassio",
   "description": "Cloudflare auto DNS update",
+  "url": "https://github.com/pondings/cloudflare-dns-update/tree/master/cloud-flare-auto-dns-update",
   "startup": "application",
   "boot": "auto",
   "map": [
