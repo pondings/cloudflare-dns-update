@@ -1,6 +1,6 @@
 const axios = require('axios');
 const moment = require('moment');
-const options = require("./options");
+const options = require("/data/options");
 
 const ZONE_ID = options.zoneId,
     API_KEY = options.apiKey,
