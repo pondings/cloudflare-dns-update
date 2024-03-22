@@ -4,8 +4,6 @@ FROM ${BUILD_FROM}
 
 WORKDIR /app
 
-echo "Hello"
-
 # Copy data for add-on
 COPY nodejsApp /app
 
