@@ -1,6 +1,6 @@
 {
   "name": "Cloudflare auto DNS update",
-  "version": "0.100",
+  "version": "1.0.0",
   "arch": [
     "armhf",
     "armv7",
