@@ -1,5 +1,5 @@
 {
-  "name": "Starter project for Node.js based Hass.io addons",
+  "name": "Cloudflare auto DNS update",
   "version": "0.100",
   "arch": [
     "armhf",
@@ -9,7 +9,7 @@
     "i386"
   ],
   "slug": "nodejs_starter_hassio",
-  "description": "Starter project for Node.js based Hass.io addons",
+  "description": "Cloudflare auto DNS update",
   "startup": "application",
   "boot": "auto",
   "map": [
